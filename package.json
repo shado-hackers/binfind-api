@@ -16,7 +16,7 @@
   "dependencies": {
     "@arnabxd/bin-lookup": "^2.0.0",
     "cors": "^2.8.5",
-    "express": "^4.20.0"
+    "express": "^4.21.0"
   },
   "engines": {
     "node": ">=14.0"
